@@ -10,5 +10,6 @@
   "large-size": "2048",
   "css": "./custom.css",
   "footer": "Copyright Text",
-  "usage-stats": false
+  "usage-stats": false,
+  "script":"<script src='https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.19/js/lightgallery-all.min.js'></script>"
 }
