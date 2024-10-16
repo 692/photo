@@ -7,6 +7,8 @@
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
+  "thumb-size": "200",
+  "large-size": "1500",
   "css": "./custom.css",
   "footer": "Copyright Text",
   "usage-stats": false
